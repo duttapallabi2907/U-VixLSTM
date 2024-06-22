@@ -9,3 +9,10 @@ Pallabi Dutta, [Soham Bose](https://github.com/shb2908), [Swalpa Kumar Roy](http
 # Datasets
 
 The BTCV dataset can be accessed from [https://doi.org/10.7303/syn3193805](https://doi.org/10.7303/syn3193805)
+
+#Note:
+Install necessary Python packages using:
+```
+pip install requirements.txt
+
+```
