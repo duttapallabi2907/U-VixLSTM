@@ -6,14 +6,6 @@ Created on Wed Jun 19 13:19:54 2024
 @author: pallabidutta
 """
 
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jun 13 16:25:37 2024
-
-@author: pallabidutta
-"""
-
 import torch
 import torch.nn as nn
 from einops import rearrange
