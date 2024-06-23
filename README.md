@@ -16,6 +16,17 @@ Install necessary Python packages using:
 pip install requirements.txt
 
 ```
+## Citation
+If you like our work, please consider giving it a star ⭐ and cite us
+
+          @article{dutta2024segmentation,
+        	title={Are Vision xLSTM Embedded UNet More Reliable in Medical 3D Image Segmentation?},
+		      author={Dutta, Pallabi and Bose, Soham and Roy, Swalpa Kumar and Mitra, Sushmita},
+		      journal={arXiv},
+		      pp.={1-10},
+		      year={2024}
+		      }
+
 ## Acknowledgement
 
 Part of this code is implementation from [https://github.com/nx-ai/vision-lstm]
