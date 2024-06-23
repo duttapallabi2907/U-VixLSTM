@@ -1,4 +1,4 @@
-# UVixLSTM
+## UVixLSTM
 Pallabi Dutta, [Soham Bose](https://github.com/shb2908), [Swalpa Kumar Roy](https://swalpa.github.io/), and [Sushmita Mitra](https://www.isical.ac.in/~sushmita/)
 
 
@@ -6,11 +6,11 @@ Pallabi Dutta, [Soham Bose](https://github.com/shb2908), [Swalpa Kumar Roy](http
 
 ![Architecture](uvixlstm.jpg)
 
-# Datasets
+## Datasets
 
 The BTCV dataset can be accessed from [https://doi.org/10.7303/syn3193805](https://doi.org/10.7303/syn3193805)
 
-# Note:
+## Note:
 Install necessary Python packages using:
 ```
 pip install requirements.txt
