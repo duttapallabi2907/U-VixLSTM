@@ -1,3 +1,5 @@
+from VisionLSTM import ViLBlock
+
 class EncoderBottleneck(nn.Module):
     def __init__(self, in_channels, out_channels, stride=1, base_width=64):
         super().__init__()
