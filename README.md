@@ -30,7 +30,7 @@ If you like our work, please consider giving it a star ⭐ and cite us
         	title={Are Vision xLSTM Embedded UNet More Reliable in Medical 3D Image Segmentation?},
 		author={Dutta, Pallabi and Bose, Soham and Roy, Swalpa Kumar and Mitra, Sushmita},
 		journal={arXiv},
-		pp.={1-10},
+		pp.={1-9},
 		year={2024}
 		}
 
