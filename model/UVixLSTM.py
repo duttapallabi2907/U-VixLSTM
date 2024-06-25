@@ -6,7 +6,7 @@ import einops
 from enum import Enum
 import math
 import torch.nn.functional as F
-from VisionLSTM import ViLBlock
+from VisionLSTM import *
 
 class EncoderBottleneck(nn.Module):
     def __init__(self, in_channels, out_channels, stride=1, base_width=64):
