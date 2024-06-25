@@ -198,22 +198,22 @@ class Decoder(nn.Module):
 
         return x
 
-    class UVixLSTM(nn.Module):
-        def __init__(self, class_num, img_dim=96,
+class UVixLSTM(nn.Module):
+    def __init__(self, class_num, img_dim=96,
                      in_channels=1,
                      out_channels=64,
                      depth=12,
                      dim=256):
-            super().__init__()
+        super().__init__()
 
-            self.encoder = Encoder(img_dim, in_channels, out_channels,
+        self.encoder = Encoder(img_dim, in_channels, out_channels,
                                    depth, dim)
 
-            self.decoder = Decoder(out_channels, class_num)
+        self.decoder = Decoder(out_channels, class_num)
 
-        def forward(self, x):
-            x, x1, x2, x3 = self.encoder(x)
+    def forward(self, x):
+        x, x1, x2, x3 = self.encoder(x)
             # print(x.size(), x1.size(), x2.size(), x3.size())
-            x = self.decoder(x, x1, x2, x3)
+        x = self.decoder(x, x1, x2, x3)
 
-            return x
+        return x
