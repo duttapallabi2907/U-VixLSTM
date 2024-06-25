@@ -198,7 +198,7 @@ class Decoder(nn.Module):
 
         return x
 
-    class UVisionLSTM(nn.Module):
+    class UVixLSTM(nn.Module):
         def __init__(self, class_num, img_dim=96,
                      in_channels=1,
                      out_channels=64,
