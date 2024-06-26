@@ -1,6 +1,6 @@
 numpy==1.23.5
 torch==1.13.1
-monai['all']
+'monai[all]'
 einops==0.6.1
 
 
