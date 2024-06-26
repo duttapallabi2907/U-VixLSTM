@@ -28,7 +28,7 @@ model
    |----VisionLSTM.py
 
 ```
-## 📜 Citation
+## 📜Citation
 If you like our work, please consider giving it a star ⭐ and cite us
 ```
           @article{dutta2024segmentation,
