@@ -19,7 +19,7 @@ pip install requirements.txt
 structure of model directory:
 ```
 model
-   |----UvisionLstm.py
+   |----UVixLSTM.py
    |----VisionLSTM.py
 
 ```
