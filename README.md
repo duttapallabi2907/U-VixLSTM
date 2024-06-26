@@ -31,14 +31,14 @@ model
 ## 📜Citation
 If you like our work, please consider giving it a star ⭐ and cite us
 ```
-          @article{dutta2024segmentation,
-        	title={Are Vision xLSTM Embedded UNet More Reliable in Medical 3D Image Segmentation?},
-		author={Dutta, Pallabi and Bose, Soham and Roy, Swalpa Kumar and Mitra, Sushmita},
-		url={https://arxiv.org/abs/2406.16993}, 
-  		journal={arXiv},
-		pp.={1-9},
-		year={2024}
-		}
+@article{dutta2024segmentation,
+	title={Are Vision xLSTM Embedded UNet More Reliable in Medical 3D Image Segmentation?},
+	author={Dutta, Pallabi and Bose, Soham and Roy, Swalpa Kumar and Mitra, Sushmita},
+	url={https://arxiv.org/abs/2406.16993}, 
+  	journal={arXiv},
+	pp.={1-9},
+	year={2024}
+	}
 ```
 
 ## 🎈 Acknowledgement
