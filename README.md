@@ -15,7 +15,7 @@
 
 The BTCV dataset can be accessed from [https://doi.org/10.7303/syn3193805](https://doi.org/10.7303/syn3193805)
 
-## Note:
+## 🛠Setup
 Install necessary Python packages using:
 ```
 pip install requirements.txt
