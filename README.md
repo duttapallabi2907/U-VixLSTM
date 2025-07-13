@@ -4,7 +4,7 @@
 
 [[`Project Page`](https://u-vixlstm.github.io/)] [[`arXiv`](https://arxiv.org/abs/2406.16993)] [[`BibTeX`](#citation)]
 
-![Architecture](uvixlstm.jpg)
+![Architecture](uvixlstm.png)
 
 > [**Are Vision xLSTM Embedded UNet More Reliable in Medical 3D Image Segmentation?**](https://arxiv.org/abs/2406.02918)<br>
 > Pallabi Dutta\*, Soham Bose<sup>+</sup>, [Swalpa Kumar Roy](https://swalpa.github.io/)<sup>✉</sup>, and [Sushmita Mitra](https://www.isical.ac.in/~sushmita/)\*
