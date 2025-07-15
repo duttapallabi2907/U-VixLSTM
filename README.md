@@ -15,7 +15,7 @@ The Vision-xLSTM blocks capture the temporal and global relationships within the
 
 ## 📚 Datasets
 
-The BTCV dataset can be accessed from [https://doi.org/10.7303/syn3193805](https://doi.org/10.7303/syn3193805)
+The Synapse dataset can be accessed from [https://doi.org/10.7303/syn3193805](https://doi.org/10.7303/syn3193805)
 
 ## 🛠 Setup
 Installation of necessary Python packages using:
