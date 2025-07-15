@@ -45,4 +45,4 @@ If you like our work, please consider giving it a star ⭐ and cite us
 
 ## 🎈 Acknowledgement
 
-Part of this code is implementation from [https://github.com/nx-ai/vision-lstm]
+Part of this code is borrowed from [https://github.com/nx-ai/vision-lstm]
